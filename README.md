@@ -1,1 +1,3 @@
-# yolov8or5
+# YOLOv8 Vs YOLOv5
+
+### This project was created as part of Dissertation for MSc in Big Data Analytics and Artificial Intelligence at ATU.
