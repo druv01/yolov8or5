@@ -3,14 +3,14 @@
 ### This project was created as part of Dissertation for MSc in Big Data Analytics and Artificial Intelligence at ATU.
 
 
-The objective is to compare the object detection performance of YOLOv5 and YOLOv8 on KITTI dataset. 
+The objective was to compare the object detection performance of YOLOv5 and YOLOv8 on KITTI dataset. 
 
 
 ### The system design
 
 ![Performance](images/design.png)
 
-### The result is displayed in the below graph.
+### The perfroamce obtained for the models is displayed in the below graph.
 
 ![Performance](images/perf.png)
 
