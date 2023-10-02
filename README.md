@@ -30,7 +30,7 @@ The objective was to compare the object detection performance of YOLOv5 and YOLO
 
 
 ### Click on below link to see the video of the robot car
-https://youtube.com/shorts/IHqM6MZVWUc?feature=share
+https://youtube.com/shorts/avCdkXG8xx8
 
 
 
