@@ -10,7 +10,7 @@ The objective was to compare the object detection performance of YOLOv5 and YOLO
 
 ![Performance](images/design.png)
 
-### The perfroamce obtained for the models is displayed in the below graph.
+### The performance obtained for the models is displayed in the below graph.
 
 ![Performance](images/perf.png)
 
